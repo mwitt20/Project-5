@@ -20,11 +20,14 @@ var nums = [3,4,4,2,2,2,5]
 func areTheTwosPaired(for: [Int]) -> Bool{
     for num in nums {
         if nums[num] == 2 {
-            if nums[num-1] != 2 && nums[num+1] != 2{
-                return false
+        if nums[num-1] != 2 && nums[num+1] != 2{
+    
+        return false
             }
         }
     }
     return true
 }
 print(areTheTwosPaired(for: nums))
+
+// I fixed a formatting error in the code. - Patrick
