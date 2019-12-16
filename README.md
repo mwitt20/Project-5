@@ -2,7 +2,7 @@
  Mark Witt CS509
  
  ### Purpose & Contents
- This repository's purpose is to hold different swift language **array** *problems* and thier *solutions* for anyone interested in seeing them.
+ This repository's purpose is to hold different swift language **array** *problems* and thier *solutions* for anyone interested in seeing or editing them.
  
  ### Why Check It Out?
  The code and solutions to these problems might guide you in the right direction on other problems that you are stuck on! Maybe you have better solutions to these same problems that you would like to share!
