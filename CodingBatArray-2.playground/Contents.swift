@@ -1,3 +1,4 @@
+//https://codingbat.com/prob/p162010
 //:Return the number of even ints in the given array.
 var array = [1,2,3,4,5,6,7,8]
 var count = 0
@@ -12,7 +13,7 @@ func numberOfEvens(for: [Int]) -> Int {
 }
 print("\(numberOfEvens(for: array)) even ints")
 
-
+//https://codingbat.com/prob/p102145
 //:Given an array of ints, return true if every 2 that appears in the array is next to another 2.
 
 var nums = [3,4,4,2,2,2,5]
